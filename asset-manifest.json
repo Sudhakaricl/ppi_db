@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ppi_db/static/css/main.5ee7cea0.css",
+    "main.js": "/ppi_db/static/js/main.0d2adbe5.js",
+    "index.html": "/ppi_db/index.html",
+    "main.5ee7cea0.css.map": "/ppi_db/static/css/main.5ee7cea0.css.map",
+    "main.0d2adbe5.js.map": "/ppi_db/static/js/main.0d2adbe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee7cea0.css",
+    "static/js/main.0d2adbe5.js"
+  ]
+}
