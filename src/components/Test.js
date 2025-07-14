@@ -1,5 +1,5 @@
-import React, { useState, useRef } from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import  { useState, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
 import {
   Container,
   Box,
@@ -36,7 +36,7 @@ const propertyData = {
 };
 
 const Test = () => {
-  const location = useLocation();
+  // const location = useLocation();
   const navigate = useNavigate();
   // const data = location.state || {};
   const inputRef = useRef(null);
